@@ -1,0 +1,14 @@
+p
+{
+    width: 400px;
+    height: 50px;
+    color: #c9c7c7;
+    background-color: #b13e3e;
+    font-size: 25px;
+    margin: 20px auto;
+    text-align: center;
+    line-height: 50px;
+    text-transform: uppercase;
+    padding: 20px;
+    border-radius: 20px;
+}
